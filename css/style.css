@@ -24,6 +24,15 @@
     height: 1.5rem;
     width: 4rem;
 }
+
+.link {
+   text-decoration: none;
+   color: white;
+}
+.link:hover {
+    color: #3882f6;
+    border-bottom: 3px solid #1752f5;
+}
 .layout-one{
     display: flex;
     box-sizing: border-box;
@@ -55,7 +64,7 @@
 }
 .left-one a:hover{
     background-color: #1752f5;
-    border-bottom: 1px solid white ;
+    border-bottom: 1px solid white;
 }
 .right-one-img {
     height: 100%;
