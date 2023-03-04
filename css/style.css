@@ -20,7 +20,7 @@
 .navigation-bar {
     display: flex;
     justify-content: space-between;
-    padding: 1rem 3rem;
+    padding: 1rem 10.3rem;
 }
 .navigation-bar ul {
     list-style: none;
@@ -50,7 +50,7 @@
     justify-content: center;
     padding-top: 5rem;
     gap: 2rem;
-    height: 22rem;
+    height: 22.5rem;
 }
 .left-one h2 {
     font-size: 48px;
