@@ -8,7 +8,7 @@
 
 .main{
     background-color: #1f2937;
-    height: 32rem;
+    height: 34rem;
     color: white;
     flex-wrap: wrap;
 }
@@ -50,7 +50,7 @@
     justify-content: center;
     padding-top: 5rem;
     gap: 2rem;
-    height: 19.5rem;
+    height: 22rem;
 }
 .left-one h2 {
     font-size: 48px;
@@ -163,6 +163,10 @@
     background-color: #1752f5;
     color: #E5E7EB;
 }
+
+/* FOOTER-------START */
+
+
 footer{
     text-align: center;
     padding: 2em;
